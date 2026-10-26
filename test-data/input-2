@@ -1,0 +1,4 @@
+# Test SINGLE: consecutive calls
+GT4500,10,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
